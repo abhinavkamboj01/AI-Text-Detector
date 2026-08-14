@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Model
+model/
+
+# Datasets
+data/
+input/
+output/
+tokenized_dataset/
+
+# Jupyter
+.ipynb_checkpoints/
